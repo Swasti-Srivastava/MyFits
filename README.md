@@ -1,2 +1,2 @@
 # MyFits
-Final Project for mobile apps Junior year
+Android Studios closet app
